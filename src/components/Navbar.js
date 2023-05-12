@@ -1,6 +1,6 @@
 import { menuItems } from '../menuItems';
 import MenuItems from './MenuItems';
-const Navbar = () => {
+const Navbars = () => {
   return (
     <nav>
       <ul className="menus">
@@ -19,4 +19,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default Navbars;
